@@ -7,7 +7,7 @@ MATLAB Runtime is free and is required to run this standalone app.
 (Users do NOT need a MATLAB license.)
 
 INSTALL
-1) Run the installer (EME_Predictor_Installer.exe)
+1) Run the installer (EME_Predictor_Installer.exe). Windows defender may identify the file as a threat, in which case click "run anyway".
 2) If prompted, allow installation of MATLAB Runtime R2025a (25.1)
 3) Launch “EME Predictor” from the Start Menu
 NOTE: You will need administrator rights to run the installer. 
