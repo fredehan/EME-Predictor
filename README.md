@@ -12,6 +12,7 @@ INSTALL
 3) Launch “EME Predictor” from the Start Menu
 NOTE: You will need administrator rights to run the installer. 
 
+If MATLAB Runtime 25.1 is already installed, you may also download the folder "Build" and run the app from there. It may take a minute to launch.
 
 CONTACT
 Email: f.a.hansen@farmasi.uio.no
