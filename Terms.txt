@@ -1,0 +1,14 @@
+EME Predictor – Standalone Windows Application
+Copyright (c) 2025 Frederik Andre Hansen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+in compiled (binary) form and associated documentation files (the “Software”), to use, copy,
+and redistribute the Software, subject to the following conditions:
+
+1) Redistribution must be of the unmodified installer or unmodified “files-only” package.
+2) You may not reverse engineer, decompile, or disassemble the Software, except where such
+   restrictions are prohibited by applicable law.
+3) This Software is provided “AS IS”, without warranty of any kind, express or implied,
+   including but not limited to the warranties of merchantability, fitness for a particular
+   purpose and noninfringement. In no event shall the authors be liable for any claim,
+   damages or other liability arising from, out of or in connection with the Software.
