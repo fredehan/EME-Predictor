@@ -1,6 +1,7 @@
 EME Predictor (Windows Standalone)
 
 Built with: MATLAB R2025a
+
 Requires: MATLAB Runtime R2025a (version 25.1), Windows 64-bit
 
 MATLAB Runtime is free and is required to run this standalone app.
@@ -12,7 +13,9 @@ INSTALL
 3) Launch “EME Predictor” from the Start Menu
 NOTE: You will need administrator rights to run the installer. 
 
-If MATLAB Runtime 25.1 is already installed, you may also download the folder "Build" and run the app from there. It may take a minute to launch.
+If MATLAB Runtime 25.1 is already installed, you may also download the folder "Application" and run the app from there. 
+
+NOTE: The app is slow to launch but will load after approximately 1 minute.
 
 CONTACT
 Email: f.a.hansen@farmasi.uio.no
