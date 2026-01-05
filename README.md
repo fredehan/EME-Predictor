@@ -18,5 +18,6 @@ NOTE: The app is slow to launch but will load after approximately 1 minute.
 Tip: use the file "Example input file.xlsx" to test the app.
 
 CONTACT
+
 Email: f.a.hansen@farmasi.uio.no
 Version: v1.0.0
