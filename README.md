@@ -1,4 +1,4 @@
-EME Predictor (Windows Standalone)
+EME Predictor (Windows Standalone, currently not working for macOS)
 
 Built with: MATLAB R2025a
 
