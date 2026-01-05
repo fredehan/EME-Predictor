@@ -2,9 +2,7 @@ EME Predictor (Windows Standalone)
 
 Built with: MATLAB R2025a
 
-Requires: MATLAB Runtime R2025a (version 25.1), Windows 64-bit
-
-MATLAB Runtime is free and is required to run this standalone app.
+Requires: MATLAB Runtime R2025a (version 25.1), Windows 64-bit. MATLAB Runtime is free and is required to run this standalone app.
 (Users do NOT need a MATLAB license.)
 
 INSTALL
