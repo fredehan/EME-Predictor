@@ -21,4 +21,4 @@ CONTACT
 
 Email: f.a.hansen@farmasi.uio.no
 
-Version: v1.0.0
+Version: v1.1.0
